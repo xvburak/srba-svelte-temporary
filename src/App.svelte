@@ -31,12 +31,11 @@
 {:else} -->
 <Header></Header>
 <Footer></Footer>
-<Carousel let:loaded autoplay autoplayDuration={2000} arrows={false} dots={false}>
-	<Image url="/images/foto1.jpg" />
-	<Image url="/images/foto2.jpg" />
-	<Image url="/images/foto3.jpg" />
-	<Image url="/images/foto4.jpg" />
-	<Image url="/images/foto5.jpg" />
+<Carousel let:loaded  autoplay autoplayDuration={2000} arrows={false} dots={false}>
+	<Image url="/images/foto-1.jpg" />
+	<Image url="/images/foto-2.jpg" />
+	<Image url="/images/foto-3.jpg" />
+	<Image url="/images/foto-4.jpg" />
 	
 	<!-- {#each photos as photo}
 	<Image url="{photo.url}"/>

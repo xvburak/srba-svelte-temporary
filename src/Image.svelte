@@ -1,8 +1,9 @@
 <script>
-    export let url
+    export let url;
+    export let position
 </script>
 
-<div class="image-container" style="background-image: url('{url}'); background-size: cover; background-position: center center;">
+<div class="image-container" style="background-image: url('{url}'); background-size: cover; background-position: {position};">
 </div>
 
 <style>
