@@ -31,7 +31,7 @@
 {:else} -->
 <Header></Header>
 <Footer></Footer>
-<Carousel autoplay autoplayDuration={2000} arrows={false} dots={false}>
+<Carousel let:loaded autoplay autoplayDuration={2000} arrows={false} dots={false}>
 	<Image url="/images/foto1.jpg" />
 	<Image url="/images/foto2.jpg" />
 	<Image url="/images/foto3.jpg" />
