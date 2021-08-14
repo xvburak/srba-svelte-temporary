@@ -3,7 +3,7 @@
 	// 	onMount
 	// } from 'svelte';
 	// import axios from 'axios'
-
+	
 	import Carousel from 'svelte-carousel'
 	import Color from './Color.svelte'
 	// import Image from './Image.svelte'
