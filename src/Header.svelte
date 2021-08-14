@@ -1,5 +1,10 @@
-<div class="absolute z-40 w-full p-4 text-white text-5xl leading-none">
-    <h1 class="">Srba <br> Projekt</h1>
+<div class="absolute z-40 w-full flex justify-between p-4 text-white leading-none">
+    <h1 class="text-5xl">Srba <br> Projekt</h1>
+    <div class="text-xl text-right">
+        <p>Ing. Pavel Srba</p>
+        <p>p.srba@volny.cz</p>
+        <p>+420 604 233 743</p>
+    </div>
 </div>
 
 <style>

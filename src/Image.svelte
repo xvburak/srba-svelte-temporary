@@ -2,7 +2,7 @@
     export let url
 </script>
 
-<div class="image-container" style="background-image: url('{url}'); background-size: cover;">
+<div class="image-container" style="background-image: url('{url}'); background-size: cover; background-position: center center;">
 </div>
 
 <style>

@@ -1,7 +1,5 @@
-<div class="absolute z-40 bottom-0 w-full p-4 text-right text-white text-2xl leading-tight">
-        <p>Ing. Pavel Srba</p>
-        <p>p.srba@volny.cz</p>
-        <p>+420 604 233 743</p>
+<div class="absolute z-40 w-full p-4 text-right text-white text-2xl leading-tight">
+        
 </div>
 
 <style>
