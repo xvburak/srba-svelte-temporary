@@ -1,5 +1,5 @@
-<div class="absolute z-40 w-full flex justify-between p-4 text-white leading-none tracking-tighter">
-    <h1 class="text-5xl">Srba <br> Projekt</h1>
+<div class="absolute z-40 w-full flex justify-between p-4 text-white tracking-tighter">
+    <h1 class="leading-extratight text-5xl">Srba <br> Projekt</h1>
     <div class="text-xl text-right">
         <p>Ing. Pavel Srba</p>
         <p>p.srba@volny.cz</p>

@@ -8,6 +8,9 @@ module.exports = {
       fontFamily: {
         sans: ['Inter', 'Helvetica', 'Arial', 'sans-serif'],
       },
+      lineHeight: {
+        'extratight': '0.9',
+       }
     },
   },
   variants: {},

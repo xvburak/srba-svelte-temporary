@@ -32,10 +32,10 @@
 <Header></Header>
 <Footer></Footer>
 <Carousel let:loaded  autoplay autoplayDuration={2000} arrows={false} dots={false}>
-	<Image url="/images/foto-1.webp" />
-	<Image url="/images/foto-2.webp" />
+	<Image url="/images/foto-1.webp" position="center center"/>
+	<Image url="/images/foto-2.webp" position="center center"/>
 	<Image url="/images/foto-3.webp" position="bottom center"/>
-	<Image url="/images/foto-4.webp" />
+	<Image url="/images/foto-4.webp" position="bottom center"/>
 	
 	<!-- {#each photos as photo}
 	<Image url="{photo.url}"/>
