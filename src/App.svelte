@@ -34,7 +34,7 @@
 <Carousel let:loaded  autoplay autoplayDuration={2000} arrows={false} dots={false}>
 	<Image url="/images/foto-1.jpg" />
 	<Image url="/images/foto-2.jpg" />
-	<Image url="/images/foto-3.jpg" />
+	<Image url="/images/foto-3.jpg" position="bottom center"/>
 	<Image url="/images/foto-4.jpg" />
 	
 	<!-- {#each photos as photo}
